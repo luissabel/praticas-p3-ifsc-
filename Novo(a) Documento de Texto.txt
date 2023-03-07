@@ -1,0 +1,21 @@
+1-lugar onde se armazena recursos para programar;
+
+2-Swing é uma biblioeca do Java para criar interfaces gráficas;
+
+3-  Botão: JButton;
+    Campo de Texto: JTextField;
+    Caixa de Seleção: JCheckBox;
+    Barra de Progresso: JProgressBar;
+    Botão de Opção: JtoggleButton;
+    Caixa de Combinação: JComboBox;
+
+4-BorderLayout, BoxLaylout, FlowLayout, AbsoluteLayoute, GridLayout, o proposito do layout no Swing é distribuir o componente da sua própria forma e lógica;
+
+5- Através do getText() e setText("");
+
+6- Swing: possui componentes próprios, esses componentes estão entre telas mais aperfeiçoadas , botões e campos para dispor as informações na aplicação, interface gráfica evoluida e com maiores efeitos;
+   AWT: possui os primeiros componentes gráficos do java, sem muitos efeitos gráficos, os botões e janelas eram mais "padrões" ;
+  
+  JavaFX: integração de gráficos de vetor, recursos Web de animação, áudio e vídeo em uma aplicação, interativa e imersiva ,estende a tecnologia Java permitindo o uso de qualquer biblioteca Java em uma aplicação JavaFX ,permite um fluxo de trabalho eficiente de designer para desenvolvedor, no qual os designers podem trabalhar com suas ferramentas preferidas, em colaboração com desenvolvedores
+
+7-
