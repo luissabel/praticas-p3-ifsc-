@@ -7,7 +7,7 @@ public class Exercicio2 {
 
 	public static void main(String[] args) {
 
-		ArrayList<String> elementos = new ArrayList();
+		ArrayList<String> elementos = new ArrayList<>();
 
 		for (int i = 0; i < 10; i++) {
 			String qnt = JOptionPane.showInputDialog("escreva o elemento:");
